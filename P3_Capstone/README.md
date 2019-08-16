@@ -23,8 +23,9 @@ history.json
 model.h5
 submission.csv
 
-
+`
 ### Following Imports were used
+
 import json
 import math
 import os
@@ -49,5 +50,5 @@ from keras.applications.densenet import DenseNet121
 import seaborn as sns
 sns.set()
 
-
 from IPython.display import display
+`
